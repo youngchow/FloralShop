@@ -1,0 +1,10 @@
+#divBody {float:left}
+.tdText {width: 300px; text-align: right;}
+.tdInput{width: 250px;}
+.tdError {width: 400px;}
+#tableForm {line-height: 50px;}
+.inputClass {width: 300px; border: 1px solid #5d7c29; padding: 4px; color: #FFFFFF;background: #395015;}
+#imgVerifyCode {width: 150px; height:45px;}
+#divVerifyCode {text-align: center; border: 0px solid #e2e2e2;}
+.errorClass {background: url(/FloralShop/images/error.png) no-repeat; color: #f40000; font-size: 10pt; border:1px solid #ffb8b8; background-color: #fef2f2; padding: 5px 8px 5px 35px;}
+#submitBtn {width: 300px;}

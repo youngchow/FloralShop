@@ -1,0 +1,66 @@
+table {
+	font-size: 10pt;
+	width: 700px;
+}
+
+.tt {
+	border-top: 1px solid #e1ddd4;
+	border-bottom: 1px solid #e1ddd4;
+	height: 30px;
+	background-color: #f9f8f3;
+}
+
+.td {
+	border-bottom: 1px solid #f0f0f0;
+}
+.divContent {
+	width: 750px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: 1px solid #e9c9b2;
+}
+.divOrder {
+	font-weight: 900;
+	font-size: 13px;
+}
+dt {
+	font-weight: 900;
+	font-size: 15px;
+	margin: 5px;
+}
+
+.pay {
+	background: url(/FloralShop/images/sprites_orderdetails.gif)
+		no-repeat;
+	display: inline-block;
+	background-position: 0 -200px;
+	height: 30px;
+	width: 130px;
+	margin-top: 10px;
+}
+#cancel {
+	background: url(/FloralShop/images/hei_1_btn.jpg) no-repeat;
+	display: inline-block;
+	height: 30px;
+	width: 100px;
+	font-size: 20px;
+	font-weight: 900;
+	color: #fff;
+	text-align: left;
+	padding-top: 6px;
+	padding-left: 30px;
+}
+#confirm {
+	background: url(/FloralShop/images/confirm.jpg) no-repeat;
+	display: inline-block;
+	height: 30px;
+	width: 100px;
+	font-size: 20px;
+	font-weight: 900;
+	color: #fff;
+	text-align: left;
+	padding-top: 6px;
+	padding-left: 30px;
+}
